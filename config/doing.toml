@@ -1,14 +1,19 @@
 [[doing]]
 title = "PowerShell Scripting"
 icon = "./config/assets/icons/code.svg"
-text = "Automation and task scripting using PowerShell and Python to enhance efficiency and productivity."
+text = "Automation and task scripting using PowerShell and Python."
 
 [[doing]]
 title = "IT & TCP/IP Technologies"
-icon = "./config/assets/icons/compass.svg"
-text = ""
+icon = "./config/assets/icons/gear.svg"
+text = "Design and configure LAN/WAN networks, Network+ CompTIA certified."
+
+[[doing]]
+title = "Enterprise IAM"
+icon = "./config/assets/icons/ai.svg"
+text = "Microsoft Azure & Exchange administration, Okta SSO directory integration."
 
 [[doing]]
 title = "Audiovisual Specialist"
 icon = "./config/assets/icons/mobile.svg"
-text = ""
+text = "AV installations for theaters, conferences, and commercial spaces."
